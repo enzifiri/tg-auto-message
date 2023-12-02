@@ -15,5 +15,3 @@ pip3 install telethon
 
 ## 3. Api Bilgilerini buradan erişebilirsiniz 
 https://my.telegram.org/apps
-
-## 4. Herhangi bir sıkıntıda Telegramdan ulaşabilirsiniz. Telegram @Enzifiri
